@@ -24,7 +24,6 @@ bookstore-api/
 │   │   │   └── BookstoreApiApplication.java
 │   │   └── resources/
 │   │       └── application.properties
-├── pom.xml
 └── README.md
 ```
 
